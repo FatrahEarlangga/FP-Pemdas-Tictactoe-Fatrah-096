@@ -84,20 +84,20 @@ Or simply run the file `database/schema.sql`
 ### Main Menu & Game
 | Main Menu | Mulai Game |
 |:---:|:---:|
-| <img src="..." width="250"/> | <img src="..." width="250"/> |
+| <img width="481" height="461" alt="image" src="https://github.com/user-attachments/assets/135b7f1a-2d55-4fdd-8ff2-6b5857cc377b" />| <img width="505" height="636" alt="image" src="https://github.com/user-attachments/assets/665ac33d-2afb-4973-9174-ef049f2b8e53" /> |
 
 ### Kondisi Game
 | Menang | Kalah | Draw |
 |:---:|:---:|:---:|
-| <img src="..." width="250"/> | <img src="..." width="250"/> | <img src="..." width="250"/> |
+| <img width="507" height="637" alt="image" src="https://github.com/user-attachments/assets/8ae10197-8504-4fcb-9cb2-55380483ce5c" /> | <img width="507" height="637" alt="image" src="https://github.com/user-attachments/assets/1e41f89f-98bf-44e3-b6d1-1fcf8c3466fc" /> | <img width="507" height="642" alt="image" src="https://github.com/user-attachments/assets/07d3bced-09cf-4d60-87cd-d7e8dd14f337" /> |
 
 ### Statistik & Leaderboard
 | Statistik | Top 5 Scorers | Keluar |
 |:---:|:---:|:---:|
-| <img src="..." width="250"/> | <img src="..." width="250"/> | <img src="..." width="250"/> |
+| <img width="482" height="462" alt="image" src="https://github.com/user-attachments/assets/ec6f756d-1eb6-43be-9780-85e51cd2d655" /> | <img width="608" height="426" alt="image" src="https://github.com/user-attachments/assets/ad7a3e40-d46f-4f1e-8acd-3d3f9af61058" /> | <img width="480" height="462" alt="image" src="https://github.com/user-attachments/assets/376a0bcb-d067-487d-87f1-fe2f1f0eab38" /> |
 
 ## GitHub Repository
 [Link GitHub kamu di sini]
 
 ## YouTube Video
-[Link YouTube kamu di sini]
+[[Link YouTube kamu di sini]](https://youtu.be/-L_WBY1gO8U)
