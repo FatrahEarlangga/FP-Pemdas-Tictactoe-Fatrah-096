@@ -79,7 +79,8 @@ Or simply run the file `database/schema.sql`
 ### Login
 | Form Login | Login Berhasil | Login Gagal | Register |
 |:---:|:---:|:---:|:---:|
-| <img width="481" alt="image" src="https://github.com/user-attachments/assets/6f752310-a7b8-453e-b8f8-9480872dc40b" /> | <img width="478" alt="image" src="https://github.com/user-attachments/assets/7c423323-79ec-4885-946c-13ae2d003daa" /> | <img width="480" alt="image" src="https://github.com/user-attachments/assets/b75bea74-24af-4cb0-aae9-2518f67cc216" /> |
+| <img width="481" alt="image" src="https://github.com/user-attachments/assets/6f752310-a7b8-453e-b8f8-9480872dc40b" /> | <img width="478" alt="image" src="https://github.com/user-attachments/assets/7c423323-79ec-4885-946c-13ae2d003daa" /> | <img width="480" alt="image" src="https://github.com/user-attachments/assets/b75bea74-24af-4cb0-aae9-2518f67cc216" /> | <img width="517" height="368" alt="image" src="https://github.com/user-attachments/assets/e6eed6c2-17e8-43c5-810e-dc1a07a65ea3" /> |
+
 
 ### Main Menu & Game
 | Main Menu | Mulai Game |
