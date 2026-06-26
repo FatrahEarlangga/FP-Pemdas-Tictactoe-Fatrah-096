@@ -1,9 +1,12 @@
 # Simple Tic-Tac-Toe Game with Java Swing, Login, and Statistics
 
 ## Student Information
-Name: [Nama Kamu]
-Student ID: 5026251096
-Class: ES234211 – Programming Fundamental
+| Field      | Isi                                      |
+|------------|------------------------------------------|
+| Name       | Fatrah Earlangga Pratama                 |
+| Student ID | 5026251096                               |
+| Class      | A                                        |
+
 
 ## Project Description
 This project is a simple Tic-Tac-Toe game built using Java Swing. The application features a login system connected to a PostgreSQL database, game statistics tracking, and a Top 5 scorers leaderboard. The player plays as X against a computer opponent (O).
@@ -73,7 +76,31 @@ Or simply run the file `database/schema.sql`
 | Lose | +0 points |
 
 ## Screenshots
-*Add screenshots of each window here*
+## Screenshots
+
+### Login
+**| Form Login | Login Berhasil | Login Gagal | Register |**
+|:---:|:---:|:---:|
+| <img width="481" height="363" alt="image" src="https://github.com/user-attachments/assets/6f752310-a7b8-453e-b8f8-9480872dc40b" /> |
+| <img width="478" height="362" alt="image" src="https://github.com/user-attachments/assets/7c423323-79ec-4885-946c-13ae2d003daa" /> |
+| <img width="480" height="363" alt="image" src="https://github.com/user-attachments/assets/b75bea74-24af-4cb0-aae9-2518f67cc216" /> |
+| <img width="508" height="366" alt="image" src="https://github.com/user-attachments/assets/f8979355-597b-4d9c-b30e-a0af170395ec" /> |
+
+
+### Main Menu & Game
+| Main Menu | Mulai Game |
+|:---:|:---:|
+| <img src="..." width="250"/> | <img src="..." width="250"/> |
+
+### Kondisi Game
+| Menang | Kalah | Draw |
+|:---:|:---:|:---:|
+| <img src="..." width="250"/> | <img src="..." width="250"/> | <img src="..." width="250"/> |
+
+### Statistik & Leaderboard
+| Statistik | Top 5 Scorers | Keluar |
+|:---:|:---:|:---:|
+| <img src="..." width="250"/> | <img src="..." width="250"/> | <img src="..." width="250"/> |
 
 ## GitHub Repository
 [Link GitHub kamu di sini]
