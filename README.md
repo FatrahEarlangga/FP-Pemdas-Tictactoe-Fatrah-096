@@ -80,10 +80,7 @@ Or simply run the file `database/schema.sql`
 ### Login
 **| Form Login | Login Berhasil | Login Gagal | Register |**
 |:---:|:---:|:---:|:---:|
-| <img width="481" height="363" alt="image" src="https://github.com/user-attachments/assets/6f752310-a7b8-453e-b8f8-9480872dc40b" /> 
-| <img width="478" height="362" alt="image" src="https://github.com/user-attachments/assets/7c423323-79ec-4885-946c-13ae2d003daa" /> 
-| <img width="480" height="363" alt="image" src="https://github.com/user-attachments/assets/b75bea74-24af-4cb0-aae9-2518f67cc216" />
-| <img width="508" height="366" alt="image" src="https://github.com/user-attachments/assets/f8979355-597b-4d9c-b30e-a0af170395ec" /> |
+| <img width="481" height="363" alt="image" src="https://github.com/user-attachments/assets/6f752310-a7b8-453e-b8f8-9480872dc40b" /> | <img width="478" height="362" alt="image" src="https://github.com/user-attachments/assets/7c423323-79ec-4885-946c-13ae2d003daa" /> | <img width="480" height="363" alt="image" src="https://github.com/user-attachments/assets/b75bea74-24af-4cb0-aae9-2518f67cc216" />| <img width="508" height="366" alt="image" src="https://github.com/user-attachments/assets/f8979355-597b-4d9c-b30e-a0af170395ec" /> |
 
 
 ### Main Menu & Game
