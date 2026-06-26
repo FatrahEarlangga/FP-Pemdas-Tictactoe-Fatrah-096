@@ -98,7 +98,7 @@ Or simply run the file `database/schema.sql`
 | <img width="482" height="462" alt="image" src="https://github.com/user-attachments/assets/ec6f756d-1eb6-43be-9780-85e51cd2d655" /> | <img width="608" height="426" alt="image" src="https://github.com/user-attachments/assets/ad7a3e40-d46f-4f1e-8acd-3d3f9af61058" /> | <img width="480" height="462" alt="image" src="https://github.com/user-attachments/assets/376a0bcb-d067-487d-87f1-fe2f1f0eab38" /> |
 
 ## GitHub Repository
-[Link GitHub kamu di sini]
+[Link GitHub ]
 
 ## YouTube Video
-[[Link YouTube kamu di sini]](https://youtu.be/-L_WBY1gO8U)
+[[Link YouTube]](https://youtu.be/-L_WBY1gO8U)
